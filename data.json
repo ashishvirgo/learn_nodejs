@@ -1,0 +1,14 @@
+{
+    "name": "ashish bajpai",
+    "mobile_no": 9718277892,
+    "address":{
+        "hno": "C-045",
+        "Street": "Meadows Vista",
+        "Area": "RajNagar Extension",
+        "City": "Ghaziabad",
+        "state": "UP",
+        "pincode": 201003,
+        "country": "India"
+
+    }
+}
