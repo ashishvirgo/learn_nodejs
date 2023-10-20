@@ -16,7 +16,7 @@ fs.readFile("./file.txt","utf-8",(error,data)=>{
 });
 console.log("Third"); 
 fs.writeFileSync("./greet.txt","Hello ashish");
-fs.writeFile("./greet.txt","Hello vivek",{flag: 'a'},(err)=>{
+fs.writeFile("./greet.txt"," Hello vivek",{flag: 'a'},(err)=>{
     if(err){
         console.log(err); 
     }
